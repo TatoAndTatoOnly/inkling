@@ -1,12 +1,12 @@
-title: Inkling
+title: Inklings
 description: Thoughts and reflections…
 social_link: none
 social_username: none
-github_repo: inkling
+github_repo: inklings
 github_username: TatoAndTatoOnly
 theme_color: light
 remote_theme: internet-de-france/athena
-baseurl: /inkling
+baseurl: /inklings
 defaults:
   - scope:
       path: ''
