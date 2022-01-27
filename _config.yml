@@ -8,7 +8,7 @@ social_link: twitter
 social_username: broccolini
 github_repo: athena # the GitHub repo name for your project
 github_username: broccolini
-theme_color: light
+theme_color: dark
 
 # Theme
 remote_theme: 'internet-de-france/athena'
@@ -39,10 +39,7 @@ remote_theme_layouts:
   - home
   - category_index
 social_links:
-  - twitter
-  - instagram
-  - medium
-  - dribbble
+  - 
 
 theme_colors:
   - light
