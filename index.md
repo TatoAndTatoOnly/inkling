@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: Inkling
+title: Inklings
 
 ---
 Thoughts and reflections…
